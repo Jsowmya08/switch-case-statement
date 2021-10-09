@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\bin\Debug\netcoreapp3.1\switch case statement.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\bin\Debug\netcoreapp3.1\switch case statement.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\bin\Debug\netcoreapp3.1\switch case statement.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\bin\Debug\netcoreapp3.1\switch case statement.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\bin\Debug\netcoreapp3.1\switch case statement.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\bin\Debug\netcoreapp3.1\switch case statement.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\switch case statement\obj\Debug\netcoreapp3.1\switch case statement.genruntimeconfig.cache
